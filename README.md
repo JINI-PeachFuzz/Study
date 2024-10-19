@@ -5,7 +5,7 @@
  <br/>
 # 목차
 ### JAVA
-- 변수와 자료형
+- [변수와 자료형](https://github.com/JINI-PeachFuzz/Study/blob/main/Java/Compilation/1.%20%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95.md)
 - 연산자
 - 조건문
 - 반복문
